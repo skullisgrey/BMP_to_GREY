@@ -1,6 +1,13 @@
 # DO-178C 문서화 패키지
 # BMP 이미지 그레이스케일 변환 소프트웨어
 
+
+
+<img width="320" height="320" alt="brainct_001" src="https://github.com/user-attachments/assets/1597701e-41d1-47ab-aae6-070cdf25b052" />
+
+
+
+
 #### 문서 관리 정보
 
 문서 ID: BMP-DO178C-001
